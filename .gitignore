@@ -2,3 +2,4 @@ frontmatter.json
 _site/*
 Gemfile
 Gemfile.lock
+.vscode/settings.json
