@@ -1,1 +1,9 @@
-theme: jekyll-theme-hacker
+# Site settings
+title: Eenentwintig
+author:
+  name: Eenentwintig
+  email: your-email@domain.com
+description: "Bitcoin content - Bitcoin Only"
+
+# Build settings
+remote_theme: jekyll/minima
